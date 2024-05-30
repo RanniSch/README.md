@@ -2,8 +2,9 @@
 
 
 
-- 🔭 I have completed the 42 core curriculum projects
-- 🌱 Here you can find all the projects. Each project has also a short presentation, accompanied by screenshots and/or short videos
+
+- 🔭 I have completed the 42 core curriculum projects. All projects can be found here
+- 🌱 Each project has a short presentation, accompanied by screenshots and/or short videos
 - 💬 The various exams of the 42 Core Curriculum can be found in the ‘Exams’ folder
 - 📫 How to reach me: [www.linkedin.com/in/ranja-schlotte](www.linkedin.com/in/ranja-schlotte-526514175)
 - 😄 Pronouns: she/her
