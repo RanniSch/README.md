@@ -1,7 +1,9 @@
 ![Github-welcome-picture](https://github.com/RanniSch/rannisch/assets/104382315/182ee655-6318-43ba-bf5f-5007b85e9b1d)
 
+
+
 - 🔭 I have completed the 42 core curriculum projects
 - 🌱 Here you can find all the projects. Each project has also a short presentation, accompanied by screenshots and/or short videos
 - 💬 The various exams of the 42 Core Curriculum can be found in the ‘Exams’ folder
-- 📫 How to reach me: https://de.linkedin.com/in/ranja-schlotte
+- 📫 How to reach me: https://de.linkedin.com/in/ranjaschlotte
 - 😄 Pronouns: she/her
