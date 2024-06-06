@@ -4,7 +4,7 @@
 
 
 * 🔭 Gratefully completed all projects of the 42 core curriculum at 42 Wolfsburg
-* 🌱 All projects can be found here. Each has a short presentation, accompanied by screenshots and/or videos
+* 🌱 The projects can be found here. Each has a short presentation, accompanied by screenshots and/or videos
 * 💬 The various exams of the 42 Core Curriculum are located in the ‘exams-42-core-curriculum’ folder
 * 📫 How to reach me: [www.linkedin.com/in/ranja-schlotte](www.linkedin.com/in/ranja-schlotte-526514175)
 * 😄 Pronouns: she/her
